@@ -1,3 +1,10 @@
 body{
-    background-color: #131b23;
+    background-color: #081c15;
+    color:#52b788;
+    font-family: "Silkscreen", sans-serif;
+}
+.s1{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
 }
