@@ -1,12 +1,16 @@
 body{
-    background-color: #081c15;
-    color:#52b788;
-    font-family: "Tiny5", sans-serif;
+    background-color: #f3e6d4;
+    color:#020302;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 .s1{
     display:flex;
     justify-content: center;
-    margin: 20px;
+    margin: 15px;
+}
+.s2{
+    font-size: large;
+    font-family: "Jersey 10", sans-serif;
 }
