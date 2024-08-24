@@ -8,9 +8,5 @@ body{
 .s1{
     display:flex;
     justify-content: center;
-    margin: 15px;
-}
-.s2{
-    font-size: large;
-    font-family: "Jersey 10", sans-serif;
+    margin: 35px;
 }
